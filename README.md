@@ -1,4 +1,5 @@
-# Text-to-Image-Generation
+# Gen AI
+
 ##This project focuses on generating images from textual descriptions using state-of-the-art deep learning models. By leveraging natural language processing (NLP) and generative models, the system translates textual prompts into realistic or stylized visuals.
 ##Key Features Text Encoding: Converts input text into vector representations using language models (e.g., CLIP, BERT). #Image Synthesis: Generates images using GANs, diffusion models, or transformer-based architectures.
 ##High-Quality Outputs: Produces realistic, detailed, and context-relevant images based on input descriptions.
